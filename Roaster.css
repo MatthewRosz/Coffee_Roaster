@@ -1,3 +1,19 @@
 body {
-    background: #f5d9d5;
+    background: #ffe8d6;
+}
+
+#mainNavbar {
+    font-weight: 150;
+    font-size: 1.5rem;
+}
+
+
+#mainNavbar .navbar-brand {
+    color: #cb997e;
+    font-weight: 150;
+    font-size: 1.5rem;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #cb997e;
 }
