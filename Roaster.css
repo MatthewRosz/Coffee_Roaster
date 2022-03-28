@@ -17,3 +17,27 @@ body {
 #mainNavbar .nav-link:hover {
     color: #cb997e;
 }
+
+#namesCol span {
+    color: #cb997e;
+    
+}
+
+#namesCol h1 {
+    font-weight: 800;
+    font-size: 4rem;
+}
+
+@media (max-width: 1500px) {
+    #namesCol h1 {
+        font-size: 3rem;
+    }
+}
+
+#lifeInfo span {
+    color: #cb997e
+}
+
+#content {
+    margin-top: 50px;
+}
